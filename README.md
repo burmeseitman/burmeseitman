@@ -31,18 +31,6 @@
 
 ---
 
-### 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burmeseitman&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=burmeseitman&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=burmeseitman&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180px" />
-</div>
-
----
-
 ### 🔥 Projects
 
 - **[iso-8583-visualizer](https://github.com/burmeseitman/iso-8583-visualizer)**: FinTech tool for ISO 8583 message visualization and debugging.
