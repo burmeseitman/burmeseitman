@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 About Me
-**AI Systems Developer** focused on building intelligent, secure, and scalable digital solutions. I am passionate about bridging the gap between advanced AI capabilities and real-world tools, focusing on local-first implementations and robust backend infrastructure.
+**AI Engineer** focused on building **Intelligent Systems & Secure Infrastructure**. I am passionate about bridging the gap between advanced AI capabilities and real-world tools, focusing on local-first implementations and robust backend architecture.
 
 - 🤖 **Intelligent Applications**: Developing AI-powered platforms for real-time monitoring, conversational interfaces, and agentic workflows.
 - 🛡️ **Secure AI Frameworks**: Designing sandboxed environments and safety protocols for trustworthy LLM integration.
