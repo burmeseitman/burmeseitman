@@ -24,7 +24,7 @@
   </a>
 </p>
 
-- **AI/ML**: RAG Pipeline Architecture, OpenAI/Anthropic/Local LLM Integration (Ollama), System Prompt Engineering.
+- **AI/ML**: RAG Pipeline Architecture, LLM Integration, System Prompt Engineering.
 - **Backend**: Node.js, Go (Microservices), Python (FastAPI/Flask), SQL & NoSQL.
 - **Frontend**: Next.js, React, TypeScript, Tailwind CSS.
 - **DevOps**: Docker, CI/CD, Secure Infrastructure.
