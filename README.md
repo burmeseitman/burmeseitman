@@ -7,12 +7,12 @@
 ---
 
 ### 🚀 About Me
-**AI Engineer** specialized in **LLM, RAG & Local AI Systems**. My focus is on scalable backend architecture, secure AI implementations, and solving real-world challenges through data and code.
+**AI Systems Developer** focused on building intelligent, secure, and scalable digital solutions. I am passionate about bridging the gap between advanced AI capabilities and real-world tools, focusing on local-first implementations and robust backend infrastructure.
 
-- 🏗️ **Backend Architect**: Passionate about building robust, high-performance systems, scalable frameworks, and tunneling services.
-- 🧠 **AI Intelligence Engine**: Specialized in real-time news monitoring, RAG systems, and local/cloud LLM orchestration.
-- 🔐 **Security-First AI**: Focusing on LLM safety, guardrails, and enterprise-grade AI infrastructure.
-- 🇲🇲 **Community**: Committed to empowering the tech ecosystem under the **Burmese Stack** brand.
+- 🤖 **Intelligent Applications**: Developing AI-powered platforms for real-time monitoring, conversational interfaces, and agentic workflows.
+- 🛡️ **Secure AI Frameworks**: Designing sandboxed environments and safety protocols for trustworthy LLM integration.
+- ⚙️ **Performance-Driven Systems**: Architecting high-availability backend services and networking tools that power modern software.
+- 🇲🇲 **Community Impact**: Dedicated to growing the tech landscape and supporting the **Burmese Stack** ecosystem.
 
 ---
 
