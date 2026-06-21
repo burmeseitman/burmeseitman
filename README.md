@@ -24,7 +24,7 @@
   </a>
 </p>
 
-- **AI/ML**: RAG Pipeline Architecture, LLM Integration, System Prompt Engineering.
+- **AI/ML**: RAG Pipeline Architecture, MCP Server Architecture, LLM Integration, System Prompt Engineering.
 - **Backend**: Node.js, Go (Microservices), Python (FastAPI/Flask), SQL & NoSQL.
 - **Frontend**: Next.js, React, TypeScript, Tailwind CSS.
 - **DevOps**: Docker, CI/CD, Secure Infrastructure.
@@ -33,6 +33,10 @@
 
 ### 🔥 Projects
 
+- **[hl7-visualizer](https://github.com/burmeseitman/hl7-visualizer)**: Web-based workspace for parsing, navigating, and visualizing HL7 medical telemetry and messages.
+- **[algosim](https://github.com/burmeseitman/algosim)**: Interactive 3D volumetric algorithm simulator and computer science learning hub.
+- **[aimathplayground](https://github.com/burmeseitman/aimathplayground)**: Interactive 3D simulation suite with Burmese localization for visualizing the mathematical pillars of AI.
+- **[useeme](https://github.com/burmeseitman/useeme)**: Private Windows OS Copilot running a 100% local AI brain via a secure Telegram bot interface.
 - **[iso-8583-visualizer](https://github.com/burmeseitman/iso-8583-visualizer)**: FinTech tool for ISO 8583 message visualization and debugging.
 - **[drifting-apollo](https://github.com/burmeseitman/drifting-apollo)**: Private AI workspace with RAG and LLM-Guard for secure intelligence.
 - **[burmaduta](https://github.com/burmeseitman/burmaduta)**: AI-powered news intelligence and geospatial monitoring for Myanmar.
