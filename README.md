@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Burmese Stack
+# 👋 Hello, I'm Willie Htet (Burmese Stack)
 
 <div align="center">
   <!--<img src="header.png" alt="Header Image" width="100%"> -->
