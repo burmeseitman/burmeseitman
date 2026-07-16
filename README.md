@@ -12,7 +12,7 @@
 - 🤖 **Intelligent Applications**: Developing AI-powered platforms for real-time monitoring, conversational interfaces, and agentic workflows.
 - 🛡️ **Secure AI Frameworks**: Designing sandboxed environments and safety protocols for trustworthy LLM integration.
 - ⚙️ **Performance-Driven Systems**: Architecting high-availability backend services and networking tools that power modern software.
-- 🇲🇲 **Community Impact**: Dedicated to growing the tech landscape and supporting the **Burmese Stack** ecosystem.
+- 🇲🇲 **Community Impact**: Dedicated to growing the tech landscape and supporting the Myanmar IT community.
 
 ---
 
