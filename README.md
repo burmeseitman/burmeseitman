@@ -33,6 +33,7 @@
 
 ### 🔥 Projects
 
+- **[ai-short-video-generator](https://github.com/burmeseitman/ai-short-video-generator)**: AI Agent workflow with an automated media pipeline for generating cinematic short-form videos.
 - **[hl7-visualizer](https://github.com/burmeseitman/hl7-visualizer)**: Web-based workspace for parsing, navigating, and visualizing HL7 medical telemetry and messages.
 - **[algosim](https://github.com/burmeseitman/algosim)**: Interactive 3D volumetric algorithm simulator and computer science learning hub.
 - **[aimathplayground](https://github.com/burmeseitman/aimathplayground)**: Interactive 3D simulation suite with Burmese localization for visualizing the mathematical pillars of AI.
