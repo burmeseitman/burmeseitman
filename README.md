@@ -33,7 +33,10 @@
 
 ### 🔥 Projects
 
+- **[agent-ui-studio](https://github.com/burmeseitman/agent-ui-studio)**: Lightweight, zero-latency developer workspace for managing and interacting with local AI engines (Ollama, LM Studio, vLLM).
+- **[myanmar-tts-pipeline](https://github.com/burmeseitman/myanmar-tts-pipeline)**: Modular, high-fidelity Burmese Neural Text-to-Speech (TTS) pipeline with diglossia normalization and phonetic transliteration.
 - **[ai-short-video-generator](https://github.com/burmeseitman/ai-short-video-generator)**: AI Agent workflow with an automated media pipeline for generating cinematic short-form videos.
+- **[cartoon-generator](https://github.com/burmeseitman/cartoon-generator)**: Automated background pipeline generating comedic Burmese cartoon images and dialogues from trending news.
 - **[hl7-visualizer](https://github.com/burmeseitman/hl7-visualizer)**: Web-based workspace for parsing, navigating, and visualizing HL7 medical telemetry and messages.
 - **[algosim](https://github.com/burmeseitman/algosim)**: Interactive 3D volumetric algorithm simulator and computer science learning hub.
 - **[aimathplayground](https://github.com/burmeseitman/aimathplayground)**: Interactive 3D simulation suite with Burmese localization for visualizing the mathematical pillars of AI.
@@ -48,6 +51,7 @@
 - **[burmese-typing-tutor](https://github.com/burmeseitman/burmese-typing-tutor)**: Educational tool for learning and practicing Burmese character typing.
 - **[ai-assistant](https://github.com/burmeseitman/ai-assistant)**: General-purpose AI assistant implementation with LLM integration.
 - **[ai_vision_detector](https://github.com/burmeseitman/ai_vision_detector)**: Computer vision detection tool powered by deep learning.
+- **[do-not-fall-in](https://github.com/burmeseitman/do-not-fall-in)**: Minimalist, physics-based paper pencil precision web browser game with real-time multiplayer and leaderboards.
 - **[water-toss-game](https://github.com/burmeseitman/water-toss-game)**: Interactive mini-game developed using pure JavaScript and HTML5.
 - **[attack-visualizer](https://github.com/burmeseitman/attack-visualizer)**: Security tool for visualizing cyber attack vectors and paths.
 - **[calendar-app](https://github.com/burmeseitman/calendar-app)**: Simple and functional calendar application for task management.
