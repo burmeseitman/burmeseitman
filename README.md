@@ -33,6 +33,7 @@
 
 ### 🔥 Projects
 
+- **[lugalay assistant](https://github.com/burmeseitman/lugalay)**: A personal AI desktop companion for macOS: a mind, a mouth, a face, a pair of hands, and a set of eyes.
 - **[agent-ui-studio](https://github.com/burmeseitman/agent-ui-studio)**: Lightweight, zero-latency developer workspace for managing and interacting with local AI engines (Ollama, LM Studio, vLLM).
 - **[myanmar-tts-pipeline](https://github.com/burmeseitman/myanmar-tts-pipeline)**: Modular, high-fidelity Burmese Neural Text-to-Speech (TTS) pipeline with diglossia normalization and phonetic transliteration.
 - **[ai-short-video-generator](https://github.com/burmeseitman/ai-short-video-generator)**: AI Agent workflow with an automated media pipeline for generating cinematic short-form videos.
